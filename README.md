@@ -6,8 +6,6 @@ The submission section links directly to the [official GECCO 2027 website](https
 
 GECCO 2027 is scheduled for **July 12–16, 2027, in Kraków, Poland**. The specific day and time for EcXplain's 110-minute workshop session have not yet been announced.
 
-The hero's fitness-landscape artwork is an illustrative generated visualization, not an experimental result. Rohit Salgotra's portrait was supplied for the website. The other organizer portraits are from their public profiles: [Aleksander Byrski](https://home.agh.edu.pl/~olekb/), [Amir H. Gandomi](https://profiles.uts.edu.au/amirhossein.gandomi), [Gabriela Ochoa](https://www.stir.ac.uk/research/hub/person/257336), and [Kalyanmoy Deb](https://eng.ua.edu/eng-directory/dr-kalyanmoy-deb/). The organizer cards appear in one horizontal row and can be scrolled sideways on narrower screens.
-
 ## Preview locally
 
 Open `index.html` in a browser, or run a local static server from this folder:
